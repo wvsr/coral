@@ -61,7 +61,7 @@ function Footer() {
       <div className='mt-10 border-t-2  wrapper flex flex-wrap py-7 text-center gap-y-3 flex-col md:flex-row justify-center md:justify-between'>
         <p>© 2023 Coral AB 559426-7865</p>
         <p>Torbjörn klockares gata 18A, Stockholm</p>
-        <p>Torbjörn klockares gata 18A, Stockholm</p>
+        <p>Social Media Logoas</p>
       </div>
     </footer>
   )
